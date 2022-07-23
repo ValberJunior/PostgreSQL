@@ -1,8 +1,5 @@
-# Exercício de Banco de Dados - PostgreSQL
+# Exercício de Banco de Dados - PostgreSQL <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" alt="postgres" width="50px" height="50px" > 
 
-
-## tec usada:
-<img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" alt="postgres" width="50px" height="50px" > 
 
 ### Tabelas:
 <a href="https://github.com/ValberJunior/PostgreSQL/blob/main/Produto.sql">TABELA DE PRODUTOS</a> <br/>
